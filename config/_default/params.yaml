@@ -5,8 +5,12 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  theme_day: minimal   # pick any light theme you prefer
+  # Do not set theme_night -> forces light mode
+header:
+  navbar:
+    show_day_night: false  # hide the toggle
+
 
 # SEO
 marketing:
