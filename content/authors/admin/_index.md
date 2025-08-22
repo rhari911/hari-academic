@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Hari R
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hari
+last_name: Ramasubramanian
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
@@ -23,42 +23,38 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor of Managerial Accounting
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Frankfurt School of Finance and Management
+    url: https://www.frankfurt-school.de/en/home/research/staff/Hari-Ramasubramanian
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: "mailto:h.ramasubramanian@fs.de"
+    label: Email
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: "https://scholar.google.com/citations?user=PRjfYZYAAAAJ&hl=en"
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: "https://orcid.org/0000-0002-7512-5831"
+  - icon: academicons/ssrn
+    url: "https://ssrn.com/author=<your-id>"
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Management Control Systems
+  - Fraud Enforcement
+  - Healthcare
+  - Accounting Information Quality
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Accounting
+    institution: Michigan State University
+    date_start: 2016-08-15
+    date_end: 2021-04-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -186,4 +182,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi. I am an Assistant Professor of Managerial Accounting at the Frankfurt School of Finance and Management. I am broadly interested in understanding how firms use a variety of control instruments to improve firm and employee outcomes.
+
+I graduated from the Eli Broad College of Business, Michigan State University, with a Ph.D. in Accounting. Before the Ph.D. program, I taught courses in financial accounting, management accounting, and corporate finance for students pursuing Chartered Accountancy in Mumbai, India. 
