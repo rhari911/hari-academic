@@ -31,7 +31,7 @@ sections:
       columns: '3'
       view: card                   # or 'citation' for APA/MLA style
 
-      - block: collection
+    - block: collection
     id: media
     content:
       title: Media Mentions
@@ -43,7 +43,7 @@ sections:
       columns: '2'
       view: card
 
-  - block: collection
+    - block: collection
     id: experience
     content:
       title: Experience
