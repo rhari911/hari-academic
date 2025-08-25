@@ -1,12 +1,12 @@
 ---
-title: Publications
-cms_exclude: true
-
-# View.
-view: citation
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+widget: pages
+title: Research
+weight: 20
+content:
+  folders: ["publication"]
+  count: 9
+  sort_by: "date"
+design:
+  columns: 3
+  view: card
 ---
