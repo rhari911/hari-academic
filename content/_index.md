@@ -18,6 +18,42 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
+   
+  - block: collection
+    id: research
+    content:
+      title: Research
+      subtitle: Publications & selected working papers
+      filters:
+        folders: ["publication"]   # reads items from content/publication/*
+      count: 12                    # any number
+    design:
+      columns: '3'
+      view: card                   # or 'citation' for APA/MLA style
+
+      - block: collection
+    id: media
+    content:
+      title: Media Mentions
+      filters:
+        folders: ["post"]
+        tags: ["media"]      # tag your media posts with "media"
+      count: 6
+    design:
+      columns: '2'
+      view: card
+
+  - block: collection
+    id: experience
+    content:
+      title: Experience
+      filters:
+        folders: ["experience"]
+    design:
+      columns: '1'
+      view: list
+
+
     design:
       css_class: dark
       # Avatar customization
