@@ -7,9 +7,6 @@
 appearance:
   theme_day: minimal   # pick any light theme you prefer
   # Do not set theme_night -> forces light mode
-  font: minimal
-  font_size: L
-  
 header:
   navbar:
     show_day_night: false  # hide the toggle
