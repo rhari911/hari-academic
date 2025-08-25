@@ -19,39 +19,41 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
    
+  sections:
   - block: collection
     id: research
     content:
-      title: Research
-      subtitle: Publications & selected working papers
+      title: "Research"
+      subtitle: "Publications and selected working papers"
       filters:
-        folders: ["publication"]   # reads items from content/publication/*
-      count: 12                    # any number
+        folders: ["publication"]   # looks in content/publication/*
+      count: 12
     design:
-      columns: '3'
-      view: card                   # or 'citation' for APA/MLA style
+      columns: 3
+      view: "card"
 
-    - block: collection
+  - block: collection
     id: media
     content:
-      title: Media Mentions
+      title: "Media Mentions"
       filters:
         folders: ["post"]
-        tags: ["media"]      # tag your media posts with "media"
+        tags: ["media"]
       count: 6
     design:
-      columns: '2'
-      view: card
+      columns: 2
+      view: "card"
 
-    - block: collection
+  - block: collection
     id: experience
     content:
-      title: Experience
+      title: "Experience"
       filters:
         folders: ["experience"]
     design:
-      columns: '1'
-      view: list
+      columns: 1
+      view: "list"
+
 
 
     design:
