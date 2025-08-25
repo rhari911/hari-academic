@@ -12,9 +12,6 @@ last_name: Ramasubramanian
 # Pronouns (optional)
 pronouns: he/him
 
-# Status emoji
-#status:
-  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,13 +48,13 @@ interests:
   - Accounting Information Quality
 
 education:
-  - area: PhD in Accounting
+    area: PhD in Accounting
     institution: Michigan State University
     date_start: 2016-08-15
     date_end: 2021-04-30
     
 research:
-  - <article class="card"><div class="inner">
+        <article class="card"><div class="inner">
           <h3>Leveraging Cost Accounting to Manage Earnings</h3>
           <p class="muted">with M. Gujarathi & D. Feldmann — <em>Issues in Accounting Education</em> (2023)</p>
           <p><a href="#">Abstract</a></p>
@@ -65,7 +62,7 @@ research:
         <article class="card"><div class="inner">
           <h3>Factors that Influence the Learning Curve</h3>
           <p class="muted">with R. Krishnan — <em>Contemporary Accounting Research</em> (2023)</p>
-          <p><a href="#">Abstract</a></p>
+          <p><a href="#">Abstract</a></p>   <p><a href="#">SSRN</a></p>
         </div></article>
         <article class="card"><div class="inner">
           <h3>Experts vs. Crowd in Hospital Quality Ratings</h3>
