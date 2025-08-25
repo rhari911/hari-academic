@@ -19,7 +19,6 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
    
-  sections:
   - block: collection
     id: research
     content:
